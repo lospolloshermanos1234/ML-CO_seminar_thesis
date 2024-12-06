@@ -12,6 +12,7 @@ This repository contains the complete pipeline for solving the Traveling Salespe
    - `tsp_dataset_with_optimal8.json` contains the **training data** with 300 datapoints.
    - `tsp_dataset_with_optimal9.json` is the **unseen test data** used for evaluation.
    - Ensure the file paths are correctly configured in the pipeline.
+   - Or alternatively use the tsp file to create your won dataset with an error
 
 3. **Output Path**:
    - Configure the output path for saving results. You can do this at the end of both the ML and CO pipeline scripts.
